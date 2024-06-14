@@ -1,6 +1,6 @@
 # TaskManagerApp
 
-DOCUMENTAÇÃO DA APLICAÇÃO TASK MANAGER (APP DE AGENDAS E TAREFAS)
+DOCUMENTAÇÃO DA APLICAÇÃO PRODUCT MANAGER (APP DE AGENDAS E TAREFAS)
 
 VISÃO GERAL
 Introdução: A aplicação Task Manager é um sistema de gerenciamento de tarefas que permite criar, editar, excluir e imprimir relatórios. O objetivo principal da aplicação é facilitar a organização e o acompanhamento das tarefas diárias. Com o Task Manager, os usuários podem manter um registro das tarefas pendentes, atribuir responsabilidades, definir prazos e monitorar o status de conclusão.
@@ -242,8 +242,4 @@ Relacionamentos:
 •	A tabela user_permission possui duas chaves estrangeiras: user_id (referência à tabela users) e permission_id (referência à tabela permissions).
 Essa estrutura de banco de dados permite armazenar informações sobre as permissões disponíveis, tarefas, usuários e os relacionamentos entre eles. É possível associar permissões aos usuários por meio da tabela user_permission e atribuir tarefas a usuários específicos usando a coluna user_id na tabela tasks. Isso permite que a aplicação gerencie as permissões dos usuários e acompanhe as tarefas atribuídas a eles.
 Diagrama ER:
- 
 
-SUPORTE DA APLICAÇÃO:
-Contato:  VITOR SAMUEL DO AMARAL PEDROSO
-Número: (35) 9 8416-2931
