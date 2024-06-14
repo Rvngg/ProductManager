@@ -1,6 +1,6 @@
 # TaskManagerApp
 
-DOCUMENTAÇÃO DA APLICAÇÃO PRODUCT MANAGER (APP DE AGENDAS E TAREFAS)
+DOCUMENTAÇÃO DA APLICAÇÃO PRODUCT MANAGER (APP DE AGENDAS E )
 
 VISÃO GERAL
 Introdução: A aplicação Task Manager é um sistema de gerenciamento de tarefas que permite criar, editar, excluir e imprimir relatórios. O objetivo principal da aplicação é facilitar a organização e o acompanhamento das tarefas diárias. Com o Task Manager, os usuários podem manter um registro das tarefas pendentes, atribuir responsabilidades, definir prazos e monitorar o status de conclusão.
